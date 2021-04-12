@@ -206,9 +206,7 @@ void ChangeStudentInfo(struct STUDENT_INFO Student_Info,int seri_num);
 
 int main()
 {
-	system("git add .");
-	system("git commit -t");
-	system("git push origin main"); 
+	system("git pull");
 	ConsoleSet();	   
     StartMenu_Option();
 	
