@@ -37,7 +37,7 @@
 
 #### 声明：   
 
-​		本系统由某高校某院光三第8组同学开发，为C语言课设作业。开源目的是促进交流学习，<font color=red>请勿直接用于作业或其他不合理用途。如造成不当后果，请自行负责，一切与本系统及开发者无关。</font>如存在使用问题，请在此文下评论。
+​		本系统由某高校某院光三第8组全体同学开发，为C语言课设作业。开源目的是促进交流学习，<font color=red>请勿直接用于作业或其他不合理用途。如造成不当后果，请自行负责，一切与本系统及开发者无关。</font>如存在使用问题，请在此文下评论。
 
 
 
@@ -151,88 +151,88 @@
 
 1. 欢迎界面
 
-<img src="http://tt.jinqisir.com/%E6%AC%A2%E8%BF%8E%E7%95%8C%E9%9D%A2.png" alt="欢迎界面" style="zoom:50%;" />
+   ![欢迎界面](http://tt.jinqisir.com/%E6%AC%A2%E8%BF%8E%E7%95%8C%E9%9D%A2.png)
 
 
 
 2. 开始界面
 
-<img src="http://tt.jinqisir.com/%E5%BC%80%E5%A7%8B%E7%95%8C%E9%9D%A2.png" alt="开始界面" style="zoom:50%;" />
+   ![开始界面](http://tt.jinqisir.com/%E5%BC%80%E5%A7%8B%E7%95%8C%E9%9D%A2.png)
 
 
 
 3. 游客界面
 
-<img src="http://tt.jinqisir.com/%E6%B8%B8%E5%AE%A2%E7%95%8C%E9%9D%A2.png" alt="游客界面" style="zoom:50%;" />
+   ![游客界面](http://tt.jinqisir.com/%E6%B8%B8%E5%AE%A2%E7%95%8C%E9%9D%A2.png)
 
 
 
 4. 失物墙
 
-<img src="http://tt.jinqisir.com/%E5%A4%B1%E7%89%A9%E5%A2%99.png" alt="失物墙" style="zoom:50%;" />
+   ![失物墙](http://tt.jinqisir.com/%E5%A4%B1%E7%89%A9%E5%A2%99.png)
 
 
 
 5. 帖子详情页面
 
-<img src="http://tt.jinqisir.com/%E5%B8%96%E5%AD%90%E8%AF%A6%E6%83%85%E9%A1%B5%E9%9D%A2.png" alt="帖子详情页面" style="zoom:50%;" />
+   ![帖子详情页面](http://tt.jinqisir.com/%E5%B8%96%E5%AD%90%E8%AF%A6%E6%83%85%E9%A1%B5%E9%9D%A2.png)
 
 
 
 6. 注册界面
 
-<img src="http://tt.jinqisir.com/%E6%B3%A8%E5%86%8C%E7%95%8C%E9%9D%A2.png" alt="注册界面" style="zoom:50%;" />
+   ![注册界面](http://tt.jinqisir.com/%E6%B3%A8%E5%86%8C%E7%95%8C%E9%9D%A2.png)
 
 
 
 7. 申请重置密码页面
 
-<img src="http://tt.jinqisir.com/%E7%94%B3%E8%AF%B7%E9%87%8D%E7%BD%AE%E5%AF%86%E7%A0%81%E9%A1%B5%E9%9D%A2.png" alt="申请重置密码页面" style="zoom:50%;" />
+   ![申请重置密码页面](http://tt.jinqisir.com/%E7%94%B3%E8%AF%B7%E9%87%8D%E7%BD%AE%E5%AF%86%E7%A0%81%E9%A1%B5%E9%9D%A2.png)
 
 
 
 8. 用户界面
 
-<img src="http://tt.jinqisir.com/%E7%94%A8%E6%88%B7%E7%95%8C%E9%9D%A2.png" alt="用户界面" style="zoom:50%;" />
+   ![用户界面](http://tt.jinqisir.com/%E7%94%A8%E6%88%B7%E7%95%8C%E9%9D%A2.png)
 
 
 
 9. 我的帖子页面
 
-<img src="http://tt.jinqisir.com/%E6%88%91%E7%9A%84%E5%B8%96%E5%AD%90%E9%A1%B5%E9%9D%A2.png" alt="我的帖子页面" style="zoom:50%;" />
+   ![我的帖子页面](http://tt.jinqisir.com/%E6%88%91%E7%9A%84%E5%B8%96%E5%AD%90%E9%A1%B5%E9%9D%A2.png)
 
 
 
 10. 修改帖子页面
 
-<img src="http://tt.jinqisir.com/%E4%BF%AE%E6%94%B9%E5%B8%96%E5%AD%90%E9%A1%B5%E9%9D%A2.png" alt="修改帖子页面" style="zoom:50%;" />
+    ![修改帖子页面](http://tt.jinqisir.com/%E4%BF%AE%E6%94%B9%E5%B8%96%E5%AD%90%E9%A1%B5%E9%9D%A2.png)
 
 
 
 11. 发布帖子页面
 
-<img src="http://tt.jinqisir.com/%E5%8F%91%E5%B8%83%E5%A4%B1%E7%89%A9%E5%B8%96%E5%AD%90%E9%A1%B5%E9%9D%A2.png" alt="发布帖子页面" style="zoom:50%;" />
+    ![发布帖子页面](http://tt.jinqisir.com/%E5%8F%91%E5%B8%83%E5%A4%B1%E7%89%A9%E5%B8%96%E5%AD%90%E9%A1%B5%E9%9D%A2.png)
 
 
 
 12. 我的信息页面
 
-<img src="http://tt.jinqisir.com/%E6%88%91%E7%9A%84%E4%BF%A1%E6%81%AF%E9%A1%B5%E9%9D%A2.png" alt="我的信息页面" style="zoom:50%;" />
+    ![我的信息页面](http://tt.jinqisir.com/%E6%88%91%E7%9A%84%E4%BF%A1%E6%81%AF%E9%A1%B5%E9%9D%A2.png)
 
 
 
 13. 留言榜页面
 
-<img src="http://tt.jinqisir.com/%E7%95%99%E8%A8%80%E6%A6%9C%E9%A1%B5%E9%9D%A2.png" alt="留言榜页面" style="zoom:50%;" />
+    ![留言榜页面](http://tt.jinqisir.com/%E7%95%99%E8%A8%80%E6%A6%9C%E9%A1%B5%E9%9D%A2.png)
 
 
 
 14. 管理员界面
 
-<img src="http://tt.jinqisir.com/%E7%AE%A1%E7%90%86%E5%91%98%E7%95%8C%E9%9D%A2.png" alt="管理员界面" style="zoom:50%;" />
+    ![管理员界面](http://tt.jinqisir.com/%E7%AE%A1%E7%90%86%E5%91%98%E7%95%8C%E9%9D%A2.png)
 
 
 
 15. 用户信息页面
 
-<img src="http://tt.jinqisir.com/%E7%94%A8%E6%88%B7%E4%BF%A1%E6%81%AF%E9%A1%B5%E9%9D%A2.png" alt="用户信息页面" style="zoom:50%;" />
+    ![用户信息页面](http://tt.jinqisir.com/%E7%94%A8%E6%88%B7%E4%BF%A1%E6%81%AF%E9%A1%B5%E9%9D%A2.png)
